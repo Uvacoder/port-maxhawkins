@@ -42,7 +42,7 @@ h6 {
 }
 
 header {
-  min-height: calc(90vh);
+  min-height: 90vh;
   margin: 0 !important;
 }
 
@@ -52,10 +52,6 @@ header {
 
 #intro-visual img {
   max-width: 300px;
-}
-
-#intro-content > * {
-  width: 70%;
 }
 
 p {

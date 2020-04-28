@@ -119,6 +119,7 @@ section {
   margin-bottom: 1.5rem;
   flex-direction: column;
   align-items: center;
+  margin: 0 auto;
 }
 
 .project > * {
@@ -161,3 +162,15 @@ footer {
     opacity: 1;
   }
 }
+
+/* .cardtest {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 25%;
+  min-width: 350px;
+  margin: 20px 20px 30px 10px;
+} */

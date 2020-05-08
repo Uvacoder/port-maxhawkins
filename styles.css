@@ -13,7 +13,7 @@
 }
 
 html {
-  background-color: aliceblue;
+  background-color: var(--bento-blue);
   /* background: linear-gradient(#27a87f, #cff52a); */
 }
 
